@@ -5,6 +5,7 @@
 
  In this assignment the goal is to  make karel divide a given map into 4 + 4  where the inner chambers should be the biggest possible equals squares, and the outer chambers should be equal in size, and they should be L-shaped. All with using the lowest number of beepers and moves.
 
-### for more info & explanation check the (Report.txt) file.
+### for more info & explanation check the () file.
+[Report.txt](https://github.com/ibrahemjrr/Karel-The-Robot-Learns-Java/blob/master/Ibrahem%20Jaradat%20Karel%20the%20robot%20Report.pdf)
 
 
